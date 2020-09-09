@@ -1,5 +1,5 @@
 <small><small><i>
-Introduction to Python - available from XXX
+Introduction to Python - available from https://github.com/milaan9/Python4DataScience
 
 The original version was written by Rajath Kumar and is available at https://github.com/rajathkumarmp/Python-Lectures.
 
@@ -60,11 +60,9 @@ To open a notebook with anaconda installed, from the terminal run:
 
     ipython notebook
 
-Note that for the Monash University optimisation course additional modules relating to the commercial optimisation library [CPLEX](http://www-01.ibm.com/software/commerce/optimization/cplex-optimizer/index.html) and possibly [Gurobi](http://www.gurobi.com/) may be used. These libraries are not available as part of any standard distribution but are available under academic licence and are included on the [Monash server](https://sci-web17-v01.ocio.monash.edu.au/hub).
-
 ## How to learn from this resource?
 
-Download all the  notebooks from [XXX]
+Download all the notebooks from https://github.com/milaan9/Python4DataScience
 
 Launch ipython notebook from the folder which contains the notebooks. Open each one of them
 
