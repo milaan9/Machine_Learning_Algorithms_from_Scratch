@@ -1,8 +1,7 @@
 <small><small><i>
 Introduction to Python - available from https://github.com/milaan9/Python4DataScience
 
-The original version was written by Rajath Kumar and is available at https://github.com/rajathkumarmp/Python-Lectures.
-
+    
 </small></small></i>
 
 # Python-Lectures
