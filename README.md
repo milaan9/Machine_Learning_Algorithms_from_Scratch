@@ -18,7 +18,7 @@
 <a href="https://githubtocolab.com/milaan9/Machine_Learning_and_Deep_Learning"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
 </p> 
 
-# Machine_Learning_and_Deep_Learning
+# Machine_Learning_&_Deep_Learning
 
 ## Introduction 👋
 
@@ -42,53 +42,53 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | 2     | **[▶ Python_for_Data_Science](XXX)** |
 | 2.1   | **[➜ Python_Numpy](XXX)** |
 | 2.2   | **[➜ Python_Pandas](XXX)** |
-| 2.3   | **[➜ xploratory_Data_Analysis](XXX)** |
+| 2.3   | **[➜ Exploratory_Data_Analysis](XXX)** |
 | 3     | **[▶ Python_for_Data_Preprocessing](XXX)** |
 | 3.1   | **[➜ Importing_the_dataset](XXX)** |
 | 3.2   | **[➜ Dealing_with_missing_data](XXX)** |
 | 3.3   | **[➜ Splitting_the_data_into_test_set_and_training_set](XXX)** |
 | 3.4   | **[➜ Feature_Scalling](XXX)** |
 | 4     | **[▶ Python_Statistics_for_Data_Science](XXX)** |
-| 4.1   | **[➜ Normal Distribution](XXX)** |
-| 4.2   | **[➜ Central Limit Theorem](XXX)** |
-| 4.3   | **[➜ Hypothesis Testing](XXX)** |
-| 4.4   | **[➜ Chi Square Testing](XXX)** |
-| 5     | **[▶ Python_for_Machine Learning](XXX)** |
-| 5.1   | **[➜ 1. Regression](XXX)** |
-| 5.1.1 | **[&nbsp;&nbsp;&nbsp; → 1. Simple Linear Regression](XXX)** |
-| 5.1.2 | **[&nbsp;&nbsp;&nbsp; → 2. Multiple Linear Regression](XXX)** |
-| 5.1.3 | **[&nbsp;&nbsp;&nbsp; → 3. Polynomial Regression](XXX)** |
-| 5.1.4 | **[&nbsp;&nbsp;&nbsp; → 4. Gradient Regression](XXX)** |
-| 5.1.5 | **[&nbsp;&nbsp;&nbsp; → 5. Support Vector Regression (SVR)](XXX)** |
-| 5.1.6 | **[&nbsp;&nbsp;&nbsp; → 6. Decision Tree Regression](XXX)** |
-| 5.1.7 | **[&nbsp;&nbsp;&nbsp; → 7. Random Forest Regression](XXX)** |
-| 5.2   | **[➜ 2. Classification](XXX)** |
-| 5.2.1 | **[&nbsp;&nbsp;&nbsp; → 1. Logistic Regression](XXX)** |
-| 5.2.2 | **[&nbsp;&nbsp;&nbsp; → 2. KNN (K- Nearest Neighbours)](XXX)** |
-| 5.2.3 | **[&nbsp;&nbsp;&nbsp; → 3. Support Vector Machines (SVM)](XXX)** |
-| 5.2.4 | **[&nbsp;&nbsp;&nbsp; → 4. Kernel SVM](XXX)** |
-| 5.2.5 | **[&nbsp;&nbsp;&nbsp; → 5. Naive Bayes](XXX)** |
-| 5.2.6 | **[&nbsp;&nbsp;&nbsp; → 6. Decision Tree Classifiers](XXX)** |
-| 5.2.7 | **[&nbsp;&nbsp;&nbsp; → 7. Random Forest Classifiers](XXX)** |
-| 5.3   | **[➜ 3. Clustering](XXX)** |
-| 5.3.1 | **[&nbsp;&nbsp;&nbsp; → 1. K-Means Clustering](XXX)** |
-| 5.3.2 | **[&nbsp;&nbsp;&nbsp; → 2. Hierarchical Clustering](XXX)** |
-| 5.4   | **[➜ 4. Principal component Analysis](XXX)** |
-| 5.5   | **[➜ 5. Hyperparameter Tuning](XXX)** |
-| 5.6   | **[➜ 6. Association Rule Learning](XXX)** |
-| 5.6.1 | **[&nbsp;&nbsp;&nbsp; → 1. Apriori](XXX)** |
-| 6     | **[▶ Case Studies](XXX)** |
+| 4.1   | **[➜ Normal_Distribution](XXX)** |
+| 4.2   | **[➜ Central_Limit_Theorem](XXX)** |
+| 4.3   | **[➜ Hypothesis_Testing](XXX)** |
+| 4.4   | **[➜ Chi_Square_Testing](XXX)** |
+| 5     | **[▶ Python_for_Machine_Learning](XXX)** |
+| 5.1   | **[➜ 1_Regression](XXX)** |
+| 5.1.1 | **[&nbsp;&nbsp;&nbsp; → 1_Simple_Linear_Regression](XXX)** |
+| 5.1.2 | **[&nbsp;&nbsp;&nbsp; → 2_Multiple_Linear_Regression](XXX)** |
+| 5.1.3 | **[&nbsp;&nbsp;&nbsp; → 3_Polynomial_Regression](XXX)** |
+| 5.1.4 | **[&nbsp;&nbsp;&nbsp; → 4_Gradient_Regression](XXX)** |
+| 5.1.5 | **[&nbsp;&nbsp;&nbsp; → 5_Support_Vector_Regression_(SVR)](XXX)** |
+| 5.1.6 | **[&nbsp;&nbsp;&nbsp; → 6_Decision_Tree_Regression](XXX)** |
+| 5.1.7 | **[&nbsp;&nbsp;&nbsp; → 7_Random_Forest_Regression](XXX)** |
+| 5.2   | **[➜ 2 Classification](XXX)** |
+| 5.2.1 | **[&nbsp;&nbsp;&nbsp; → 1_Logistic_Regression](XXX)** |
+| 5.2.2 | **[&nbsp;&nbsp;&nbsp; → 2_KNN_(K-Nearest_Neighbours)](XXX)** |
+| 5.2.3 | **[&nbsp;&nbsp;&nbsp; → 3_Support_Vector_Machines_(SVM)](XXX)** |
+| 5.2.4 | **[&nbsp;&nbsp;&nbsp; → 4_Kernel_SVM](XXX)** |
+| 5.2.5 | **[&nbsp;&nbsp;&nbsp; → 5_Naive_Bayes](XXX)** |
+| 5.2.6 | **[&nbsp;&nbsp;&nbsp; → 6_Decision_Tree_Classifiers](XXX)** |
+| 5.2.7 | **[&nbsp;&nbsp;&nbsp; → 7_Random_Forest_Classifiers](XXX)** |
+| 5.3   | **[➜ 3 Clustering](XXX)** |
+| 5.3.1 | **[&nbsp;&nbsp;&nbsp; → 1_K-Means_Clustering](XXX)** |
+| 5.3.2 | **[&nbsp;&nbsp;&nbsp; → 2_Hierarchical_Clustering](XXX)** |
+| 5.4   | **[➜ 4_Principal_Component_Analysis_(PCA)](XXX)** |
+| 5.5   | **[➜ 5_Hyperparameter_Tuning](XXX)** |
+| 5.6   | **[➜ 6_Association_Rule_Learning](XXX)** |
+| 5.6.1 | **[&nbsp;&nbsp;&nbsp; → 1_Apriori](XXX)** |
+| 6     | **[▶ Case_Studies](XXX)** |
 | 6.1   | **[➜ XXX](XXX)** |
 | 6.2   | **[➜ XXX](XXX)** |
 | 6.3   | **[➜ XXX](XXX)** |
 | 6.4   | **[➜ XXX](XXX)** |
 | 6.5   | **[➜ XXX](XXX)** |
-| 7     | **[▶ Python_for_Deep Learning](XXX)** |
-| 7.1   | **[➜ Deep Learning_Introduction](XXX)** |
-| 7.2   | **[➜ Artifial Neural Networks (ANN)](XXX)** |
-| 7.3   | **[➜ Deep NN with TensorFlow.Keras](XXX)** |
-| 7.4   | **[➜ Convolutional Neural Networks (CNN) ](XXX)** |
-| 7.5   | **[➜ CNN with TensorFlow.Keras](XXX)** |
+| 7     | **[▶ Python_for_Deep_Learning](XXX)** |
+| 7.1   | **[➜ Deep_Learning_Introduction](XXX)** |
+| 7.2   | **[➜ Artifial_Neural_Networks_(ANN)](XXX)** |
+| 7.3   | **[➜ Deep_NN_with_TensorFlow_Keras](XXX)** |
+| 7.4   | **[➜ Convolutional_Neural_Networks_(CNN) ](XXX)** |
+| 7.5   | **[➜ CNN_with_TensorFlow_Keras](XXX)** |
 
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>>
