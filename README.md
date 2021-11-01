@@ -43,12 +43,12 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | 2.1   | **[◼ Python_Numpy](XXX)** |
 | 2.2   | **[◼ Python_Pandas](XXX)** |
 | 2.3   | **[◼ Exploratory_Data_Analysis](XXX)** |
-| 3     | **[Python_for_Data_Preprocessing](XXX)** |
-| 3.1   | **[◼ Importing the dataset](XXX)** |
-| 3.2   | **[◼ Dealing with missing data](XXX)** |
-| 3.3   | **[◼ Splitting the data into test set and training set](XXX)** |
-| 3.4   | **[◼ Feature Scalling](XXX)** |
-| 4     | **[Python_Statistics_for_Data_Science](XXX)** |
+| 3     | **[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python_for_Data_Preprocessing](XXX)** |
+| 3.1   | **[◼ Importing_the_dataset](XXX)** |
+| 3.2   | **[◼ Dealing_with_missing_data](XXX)** |
+| 3.3   | **[◼ Splitting_the_data_into_test_set_and_training_set](XXX)** |
+| 3.4   | **[◼ Feature_Scalling](XXX)** |
+| 4     | **[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python_Statistics_for_Data_Science](XXX)** |
 | 4.1   | **[◼ Normal Distribution](XXX)** |
 | 4.2   | **[◼ Central Limit Theorem](XXX)** |
 | 4.3   | **[◼ Hypothesis Testing](XXX)** |
