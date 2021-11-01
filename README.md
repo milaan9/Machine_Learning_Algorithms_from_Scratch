@@ -56,27 +56,27 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | 5     | **[▶ Python_for_Machine Learning](XXX)** |
 | 5.1   | **[➜ 1.Regression](XXX)** |
 | 5.1.1 | **[&nbsp;&nbsp;&nbsp; → Simple Linear Regression](XXX)** |
-| 5.1.2 | **[&nbsp;&nbsp;&nbsp; ◾ ↳ Multiple Linear Regression](XXX)** |
-| 5.1.3 | **[&nbsp;&nbsp;&nbsp; ◾ Polynomial Regression](XXX)** |
-| 5.1.4 | **[&nbsp;&nbsp;&nbsp; ◾ Gradient Regression](XXX)** |
-| 5.1.5 | **[&nbsp;&nbsp;&nbsp; ◾  Support Vector Regression (SVR)](XXX)** |
-| 5.1.6 | **[&nbsp;&nbsp;&nbsp; ◾  Decision Tree Regression](XXX)** |
-| 5.1.7 | **[&nbsp;&nbsp;&nbsp; ◾ Random Forest Regression](XXX)** |
+| 5.1.2 | **[&nbsp;&nbsp;&nbsp; → Multiple Linear Regression](XXX)** |
+| 5.1.3 | **[&nbsp;&nbsp;&nbsp; → Polynomial Regression](XXX)** |
+| 5.1.4 | **[&nbsp;&nbsp;&nbsp; → Gradient Regression](XXX)** |
+| 5.1.5 | **[&nbsp;&nbsp;&nbsp; → Support Vector Regression (SVR)](XXX)** |
+| 5.1.6 | **[&nbsp;&nbsp;&nbsp; → Decision Tree Regression](XXX)** |
+| 5.1.7 | **[&nbsp;&nbsp;&nbsp; → Random Forest Regression](XXX)** |
 | 5.2   | **[◼ Classification](XXX)** |
-| 5.2.1 | **[&nbsp;&nbsp;&nbsp; ◾  Logistic Regression](XXX)** |
-| 5.2.2 | **[&nbsp;&nbsp;&nbsp; ◾ KNN (K- Nearest Neighbours)](XXX)** |
-| 5.2.3 | **[&nbsp;&nbsp;&nbsp; ◾ Support Vector Machines (SVM)](XXX)** |
-| 5.2.4 | **[&nbsp;&nbsp;&nbsp; ◾ Kernel SVM](XXX)** |
-| 5.2.5 | **[&nbsp;&nbsp;&nbsp; ◾ Naive Bayes](XXX)** |
-| 5.2.6 | **[&nbsp;&nbsp;&nbsp; ◾ Decision Tree Classifiers](XXX)** |
-| 5.2.7 | **[&nbsp;&nbsp;&nbsp; ◾ Random Forest Classifiers](XXX)** |
+| 5.2.1 | **[&nbsp;&nbsp;&nbsp; → Logistic Regression](XXX)** |
+| 5.2.2 | **[&nbsp;&nbsp;&nbsp; → KNN (K- Nearest Neighbours)](XXX)** |
+| 5.2.3 | **[&nbsp;&nbsp;&nbsp; → Support Vector Machines (SVM)](XXX)** |
+| 5.2.4 | **[&nbsp;&nbsp;&nbsp; → Kernel SVM](XXX)** |
+| 5.2.5 | **[&nbsp;&nbsp;&nbsp; → Naive Bayes](XXX)** |
+| 5.2.6 | **[&nbsp;&nbsp;&nbsp; → Decision Tree Classifiers](XXX)** |
+| 5.2.7 | **[&nbsp;&nbsp;&nbsp; → Random Forest Classifiers](XXX)** |
 | 5.3   | **[◼ Clustering](XXX)** |
-| 5.3.1 | **[&nbsp;&nbsp;&nbsp; ◾ K-Means Clustering](XXX)** |
-| 5.3.2 | **[&nbsp;&nbsp;&nbsp; ◾ Hierarchical Clustering](XXX)** |
+| 5.3.1 | **[&nbsp;&nbsp;&nbsp; → K-Means Clustering](XXX)** |
+| 5.3.2 | **[&nbsp;&nbsp;&nbsp; → Hierarchical Clustering](XXX)** |
 | 5.4   | **[◼ Principal component Analysis](XXX)** |
 | 5.5   | **[◼ Hyperparameter Tuning](XXX)** |
 | 5.6   | **[◼ Association Rule Learning](XXX)** |
-| 5.6.1 | **[&nbsp;&nbsp;&nbsp; ◾ Apriori](XXX)** |
+| 5.6.1 | **[&nbsp;&nbsp;&nbsp; → Apriori](XXX)** |
 | 5.7   | **[◼ Case Studies](XXX)** |
 | 6     | **[▶ Python_for_Deep Learning](XXX)** |
 | 6.1   | **[◼ Deep Learning_Introduction](XXX)** |
