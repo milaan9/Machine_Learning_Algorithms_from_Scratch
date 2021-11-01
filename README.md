@@ -33,14 +33,57 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-| 01 | **[Python_NumPy](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/001_Python_NumPy.ipynb)** |
-| 02 | **[Python_NumPy_Array_Part1](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/002_Python_NumPy_Array_Part1.ipynb)** |
-| 03 | **[Python_NumPy_Array_Part2](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/003_Python_NumPy_Array_Part2.ipynb)** |
-| 04 | **[Python_NumPy_Array_Part3](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/004_Python_NumPy_Array_Part3.ipynb)** |
-| 05 | **[Python_NumPy_Array_Part4](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/005_Python_NumPy_Array_Part4.ipynb)** |
-|    | **[data](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/data.txt)** |
-| 06 | **[Python_Numpy_Exercises_with_hints](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/Python_Numpy_Exercises_with_hints.ipynb)** |
-| 07 | **[NumPy Cheat Sheet Data Analysis in Python.pdf](https://github.com/milaan9/09_Python_NumPy_Module/blob/main/NumPy%20Cheat%20Sheet%20Data%20Analysis%20in%20Python.pdf)** |
+| 01 | **[Python_Programming](XXX)** |
+|    | **[1.Python_Introduction](XXX)** |
+|    | **[2.Python_Data_Types](XXX)** |
+|    | **[3.Python_Flow_Control](XXX)** |
+|    | **[4.Python_Functions](XXX)** |
+|    | **[5.Python_Advance](XXX)** |
+| 02 | **[Python_for_Data_Science](XXX)** |
+|    | **[1.Python_Numpy](XXX)** |
+|    | **[2.Python_Pandas](XXX)** |
+|    | **[3.Exploratory_Data_Analysis](XXX)** |
+| 03 | **[Python_for_Data_Preprocessing](XXX)** |
+|    | **[1.Importing the dataset](XXX)** |
+|    | **[2.Dealing with missing data](XXX)** |
+|    | **[3.Splitting the data into test set and training set](XXX)** |
+|    | **[4.Feature Scalling](XXX)** |
+| 04 | **[Python_Statistics_for_Data_Science](XXX)** |
+|    | **[1.Normal Distribution](XXX)** |
+|    | **[2.Central Limit Theorem](XXX)** |
+|    | **[3.Hypothesis Testing](XXX)** |
+|    | **[4.Chi Square Testing](XXX)** |
+| 05 | **[Python_for_Machine Learning](XXX)** |
+|    | **[1.Regression](XXX)** |
+|    | **[- 1.1 Simple Linear Regression](XXX)** |
+|    | **[- 1.2 Multiple Linear Regression](XXX)** |
+|    | **[- 1.3 Polynomial Regression](XXX)** |
+|    | **[- 1.4 Gradient Regression](XXX)** |
+|    | **[- 1.5 Support Vector Regression (SVR)](XXX)** |
+|    | **[- 1.6 Decision Tree Regression](XXX)** |
+|    | **[- 1.7 Random Forest Regression](XXX)** |
+|    | **[2.Classification](XXX)** |
+|    | **[- 2.1 Logistic Regression](XXX)** |
+|    | **[- 2.2 KNN (K- Nearest Neighbours)](XXX)** |
+|    | **[- 2.3 Support Vector Machines (SVM)](XXX)** |
+|    | **[- 2.4 Kernel SVM](XXX)** |
+|    | **[- 2.5 Naive Bayes](XXX)** |
+|    | **[- 2.6 Decision Tree Classifiers](XXX)** |
+|    | **[- 2.7 Random Forest Classifiers](XXX)** |
+|    | **[3.Clustering](XXX)** |
+|    | **[- 3.1 K-Means Clustering](XXX)** |
+|    | **[- 3.2 Hierarchical Clustering](XXX)** |
+|    | **[4.Principal component Analysis](XXX)** |
+|    | **[5.Hyperparameter Tuning](XXX)** |
+|    | **[6.Association Rule Learning](XXX)** |
+|    | **[- 6.1 Apriori](XXX)** |
+|    | **[7.Case Studies](XXX)** |
+|    | **[8.Deep Learning](XXX)** |
+|    | **[- 8.1 Deep Learning_Introduction](XXX)** |
+|    | **[- 8.2 Artifial Neural Networks (ANN)](XXX)** |
+|    | **[- 8.2 Deep NN with TensorFlow.Keras](XXX)** |
+|    | **[- 8.2 Convolutional Neural Networks (CNN) ](XXX)** |
+|    | **[- 8.2 CNN with TensorFlow.Keras](XXX)** |
 
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>>
