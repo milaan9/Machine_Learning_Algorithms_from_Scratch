@@ -90,7 +90,7 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | 7.4   | **[➜ Convolutional_Neural_Networks_(CNN) ](XXX)** |
 | 7.5   | **[➜ CNN_with_TensorFlow_Keras](XXX)** |
 
-These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>>
+These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 
 * Recommendation for ML Enthusiasts: **[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)**
 ---
