@@ -33,29 +33,29 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-| 01   | **[Python_Programming](XXX)** |
-| 01.1 | **[◼ Python_Introduction](XXX)** |
-| 01.2 | **[◼ Python_Data_Types](XXX)** |
-| 01.3 | **[◼ Python_Flow_Control](XXX)** |
-| 01.4 | **[◼ Python_Functions](XXX)** |
-| 01.5 | **[◾ Python_Advance](XXX)** |
-| 02   | **[Python_for_Data_Science](XXX)** |
-|    | **[◽ Python_Numpy](XXX)** |
-|    | **[2.Python_Pandas](XXX)** |
-|    | **[3.Exploratory_Data_Analysis](XXX)** |
-| 03 | **[Python_for_Data_Preprocessing](XXX)** |
-|    | **[1.Importing the dataset](XXX)** |
-|    | **[2.Dealing with missing data](XXX)** |
-|    | **[3.Splitting the data into test set and training set](XXX)** |
-|    | **[4.Feature Scalling](XXX)** |
-| 04 | **[Python_Statistics_for_Data_Science](XXX)** |
-|    | **[1.Normal Distribution](XXX)** |
-|    | **[2.Central Limit Theorem](XXX)** |
-|    | **[3.Hypothesis Testing](XXX)** |
-|    | **[4.Chi Square Testing](XXX)** |
-| 05 | **[Python_for_Machine Learning](XXX)** |
-|    | **[- 1.Regression](XXX)** |
-|    | **[ ◾ 1.1 Simple Linear Regression](XXX)** |
+| 1   | **[Python_Programming](XXX)** |
+| 1.1 | **[◼ Python_Introduction](XXX)** |
+| 1.2 | **[◼ Python_Data_Types](XXX)** |
+| 1.3 | **[◼ Python_Flow_Control](XXX)** |
+| 1.4 | **[◼ Python_Functions](XXX)** |
+| 1.5 | **[◼ Python_Advance](XXX)** |
+| 2   | **[Python_for_Data_Science](XXX)** |
+| 2.1 | **[◼ Python_Numpy](XXX)** |
+| 2.2 | **[◼ Python_Pandas](XXX)** |
+| 2.3 | **[◼ Exploratory_Data_Analysis](XXX)** |
+| 3   | **[Python_for_Data_Preprocessing](XXX)** |
+| 3.1 | **[◼ Importing the dataset](XXX)** |
+| 3.2 | **[◼ Dealing with missing data](XXX)** |
+| 3.3 | **[◼ Splitting the data into test set and training set](XXX)** |
+| 3.4 | **[◼ Feature Scalling](XXX)** |
+| 4   | **[Python_Statistics_for_Data_Science](XXX)** |
+| 4.1 | **[◼ Normal Distribution](XXX)** |
+| 4.2 | **[◼ Central Limit Theorem](XXX)** |
+| 4.3 | **[◼ Hypothesis Testing](XXX)** |
+| 4.4 | **[◼ Chi Square Testing](XXX)** |
+| 5   | **[Python_for_Machine Learning](XXX)** |
+| 5.1 | **[◼ 1.Regression](XXX)** |
+| 5.1.1 | **[ ◾ Simple Linear Regression](XXX)** |
 |    | **[- 1.2 Multiple Linear Regression](XXX)** |
 |    | **[- 1.3 Polynomial Regression](XXX)** |
 |    | **[- 1.4 Gradient Regression](XXX)** |
