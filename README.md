@@ -77,13 +77,18 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | 5.5   | **[➜ 5. Hyperparameter Tuning](XXX)** |
 | 5.6   | **[➜ 6. Association Rule Learning](XXX)** |
 | 5.6.1 | **[&nbsp;&nbsp;&nbsp; → 1. Apriori](XXX)** |
-| 5.7   | **[➜ 7. Case Studies](XXX)** |
-| 6     | **[▶ Python_for_Deep Learning](XXX)** |
-| 6.1   | **[➜ Deep Learning_Introduction](XXX)** |
-| 6.2   | **[➜ Artifial Neural Networks (ANN)](XXX)** |
-| 6.3   | **[➜ Deep NN with TensorFlow.Keras](XXX)** |
-| 6.4   | **[➜ Convolutional Neural Networks (CNN) ](XXX)** |
-| 6.5   | **[➜ CNN with TensorFlow.Keras](XXX)** |
+| 6     | **[▶ Case Studies](XXX)** |
+| 6.1   | **[➜ XXX](XXX)** |
+| 6.2   | **[➜ XXX](XXX)** |
+| 6.3   | **[➜ XXX](XXX)** |
+| 6.4   | **[➜ XXX](XXX)** |
+| 6.5   | **[➜ XXX](XXX)** |
+| 7     | **[▶ Python_for_Deep Learning](XXX)** |
+| 7.1   | **[➜ Deep Learning_Introduction](XXX)** |
+| 7.2   | **[➜ Artifial Neural Networks (ANN)](XXX)** |
+| 7.3   | **[➜ Deep NN with TensorFlow.Keras](XXX)** |
+| 7.4   | **[➜ Convolutional Neural Networks (CNN) ](XXX)** |
+| 7.5   | **[➜ CNN with TensorFlow.Keras](XXX)** |
 
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>>
