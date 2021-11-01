@@ -34,25 +34,25 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | **No.** | **Name** | 
 | ------- | -------- | 
 | 1     | **[▶ Python_Programming](XXX)** |
-| 1.1   | **[➜ 1. Python_Introduction](XXX)** |
-| 1.2   | **[➜ 2. Python_Data_Types](XXX)** |
-| 1.3   | **[➜ 3. Python_Flow_Control](XXX)** |
-| 1.4   | **[➜ 4. Python_Functions](XXX)** |
-| 1.5   | **[➜ 5. Python_Advance](XXX)** |
+| 1.1   | **[➜ Python_Introduction](XXX)** |
+| 1.2   | **[➜ Python_Data_Types](XXX)** |
+| 1.3   | **[➜ Python_Flow_Control](XXX)** |
+| 1.4   | **[➜ Python_Functions](XXX)** |
+| 1.5   | **[➜ Python_Advance](XXX)** |
 | 2     | **[▶ Python_for_Data_Science](XXX)** |
-| 2.1   | **[➜ 1. Python_Numpy](XXX)** |
-| 2.2   | **[➜ 2. Python_Pandas](XXX)** |
-| 2.3   | **[➜ 3. Exploratory_Data_Analysis](XXX)** |
+| 2.1   | **[➜ Python_Numpy](XXX)** |
+| 2.2   | **[➜ Python_Pandas](XXX)** |
+| 2.3   | **[➜ xploratory_Data_Analysis](XXX)** |
 | 3     | **[▶ Python_for_Data_Preprocessing](XXX)** |
-| 3.1   | **[➜ 1. Importing_the_dataset](XXX)** |
-| 3.2   | **[➜ 2. Dealing_with_missing_data](XXX)** |
-| 3.3   | **[➜ 3. Splitting_the_data_into_test_set_and_training_set](XXX)** |
-| 3.4   | **[➜ 4. Feature_Scalling](XXX)** |
+| 3.1   | **[➜ Importing_the_dataset](XXX)** |
+| 3.2   | **[➜ Dealing_with_missing_data](XXX)** |
+| 3.3   | **[➜ Splitting_the_data_into_test_set_and_training_set](XXX)** |
+| 3.4   | **[➜ Feature_Scalling](XXX)** |
 | 4     | **[▶ Python_Statistics_for_Data_Science](XXX)** |
-| 4.1   | **[➜ 1. Normal Distribution](XXX)** |
-| 4.2   | **[➜ 2. Central Limit Theorem](XXX)** |
-| 4.3   | **[➜ 3. Hypothesis Testing](XXX)** |
-| 4.4   | **[➜ 4. Chi Square Testing](XXX)** |
+| 4.1   | **[➜ Normal Distribution](XXX)** |
+| 4.2   | **[➜ Central Limit Theorem](XXX)** |
+| 4.3   | **[➜ Hypothesis Testing](XXX)** |
+| 4.4   | **[➜ Chi Square Testing](XXX)** |
 | 5     | **[▶ Python_for_Machine Learning](XXX)** |
 | 5.1   | **[➜ 1. Regression](XXX)** |
 | 5.1.1 | **[&nbsp;&nbsp;&nbsp; → 1. Simple Linear Regression](XXX)** |
@@ -79,11 +79,11 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | 5.6.1 | **[&nbsp;&nbsp;&nbsp; → 1. Apriori](XXX)** |
 | 5.7   | **[➜ 7. Case Studies](XXX)** |
 | 6     | **[▶ Python_for_Deep Learning](XXX)** |
-| 6.1   | **[➜ 1. Deep Learning_Introduction](XXX)** |
-| 6.2   | **[➜ 2. Artifial Neural Networks (ANN)](XXX)** |
-| 6.3   | **[➜ 3. Deep NN with TensorFlow.Keras](XXX)** |
-| 6.4   | **[➜ 4. Convolutional Neural Networks (CNN) ](XXX)** |
-| 6.5   | **[➜ 5. CNN with TensorFlow.Keras](XXX)** |
+| 6.1   | **[➜ Deep Learning_Introduction](XXX)** |
+| 6.2   | **[➜ Artifial Neural Networks (ANN)](XXX)** |
+| 6.3   | **[➜ Deep NN with TensorFlow.Keras](XXX)** |
+| 6.4   | **[➜ Convolutional Neural Networks (CNN) ](XXX)** |
+| 6.5   | **[➜ CNN with TensorFlow.Keras](XXX)** |
 
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>>
