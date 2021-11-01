@@ -34,10 +34,10 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | **No.** | **Name** | 
 | ------- | -------- | 
 | 01   | **[Python_Programming](XXX)** |
-| 01.1 | **[➜ Python_Introduction](XXX)** |
-| 01.2 | **[→ Python_Data_Types](XXX)** |
+| 01.1 | **[◼ Python_Introduction](XXX)** |
+| 01.2 | **[◼ Python_Data_Types](XXX)** |
 | 01.3 | **[◼ Python_Flow_Control](XXX)** |
-| 01.4 | **[◻ Python_Functions](XXX)** |
+| 01.4 | **[◼ Python_Functions](XXX)** |
 | 01.5 | **[◾ Python_Advance](XXX)** |
 | 02   | **[Python_for_Data_Science](XXX)** |
 |    | **[◽ Python_Numpy](XXX)** |
@@ -54,8 +54,8 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 |    | **[3.Hypothesis Testing](XXX)** |
 |    | **[4.Chi Square Testing](XXX)** |
 | 05 | **[Python_for_Machine Learning](XXX)** |
-|    | **[1.Regression](XXX)** |
-|    | **[- 1.1 Simple Linear Regression](XXX)** |
+|    | **[- 1.Regression](XXX)** |
+|    | **[ ◾ 1.1 Simple Linear Regression](XXX)** |
 |    | **[- 1.2 Multiple Linear Regression](XXX)** |
 |    | **[- 1.3 Polynomial Regression](XXX)** |
 |    | **[- 1.4 Gradient Regression](XXX)** |
