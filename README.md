@@ -35,7 +35,7 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | ------- | -------- | 
 | 01   | **[Python_Programming](XXX)** |
 | 01.1 | **[↪ Python_Introduction](XXX)** |
-| 01.2 | **[➡ Python_Data_Types](XXX)** |
+| 01.2 | **[→ Python_Data_Types](XXX)** |
 | 01.3 | **[- Python_Flow_Control](XXX)** |
 | 01.4 | **[- Python_Functions](XXX)** |
 | 01.5 | **[- Python_Advance](XXX)** |
