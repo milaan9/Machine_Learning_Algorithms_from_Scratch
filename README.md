@@ -39,7 +39,7 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 | 1.3   | **[◼ Python_Flow_Control](XXX)** |
 | 1.4   | **[◼ Python_Functions](XXX)** |
 | 1.5   | **[◼ Python_Advance](XXX)** |
-| 2     | **[Python_for_Data_Science](XXX)** |
+| 2     | **[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python_for_Data_Science](XXX)** |
 | 2.1   | **[◼ Python_Numpy](XXX)** |
 | 2.2   | **[◼ Python_Pandas](XXX)** |
 | 2.3   | **[◼ Exploratory_Data_Analysis](XXX)** |
