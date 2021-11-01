@@ -78,12 +78,12 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 |    | **[6.Association Rule Learning](XXX)** |
 |    | **[- 6.1 Apriori](XXX)** |
 |    | **[7.Case Studies](XXX)** |
-|    | **[8.Deep Learning](XXX)** |
-|    | **[- 8.1 Deep Learning_Introduction](XXX)** |
-|    | **[- 8.2 Artifial Neural Networks (ANN)](XXX)** |
-|    | **[- 8.2 Deep NN with TensorFlow.Keras](XXX)** |
-|    | **[- 8.2 Convolutional Neural Networks (CNN) ](XXX)** |
-|    | **[- 8.2 CNN with TensorFlow.Keras](XXX)** |
+| 06 | **[Python_for_Deep Learning](XXX)** |
+|    | **[- 6.1 Deep Learning_Introduction](XXX)** |
+|    | **[- 6.2 Artifial Neural Networks (ANN)](XXX)** |
+|    | **[- 6.2 Deep NN with TensorFlow.Keras](XXX)** |
+|    | **[- 6.2 Convolutional Neural Networks (CNN) ](XXX)** |
+|    | **[- 6.2 CNN with TensorFlow.Keras](XXX)** |
 
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/09_Python_NumPy_Module/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>>
