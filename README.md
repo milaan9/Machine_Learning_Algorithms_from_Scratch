@@ -33,17 +33,17 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 
 | **No.** | **Name** | 
 | ------- | -------- | 
-| 1     | **[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▶ Python_Programming](XXX)** |
+| 1     | **[▶ Python_Programming](XXX)** |
 | 1.1   | **[◼ Python_Introduction](XXX)** |
 | 1.2   | **[◼ Python_Data_Types](XXX)** |
 | 1.3   | **[◼ Python_Flow_Control](XXX)** |
 | 1.4   | **[◼ Python_Functions](XXX)** |
 | 1.5   | **[◼ Python_Advance](XXX)** |
-| 2     | **[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚫ Python_for_Data_Science](XXX)** |
+| 2     | **[⚫ Python_for_Data_Science](XXX)** |
 | 2.1   | **[◼ Python_Numpy](XXX)** |
 | 2.2   | **[◼ Python_Pandas](XXX)** |
 | 2.3   | **[◼ Exploratory_Data_Analysis](XXX)** |
-| 3     | **[&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⬛ Python_for_Data_Preprocessing](XXX)** |
+| 3     | **[⬛ Python_for_Data_Preprocessing](XXX)** |
 | 3.1   | **[◼ Importing_the_dataset](XXX)** |
 | 3.2   | **[◼ Dealing_with_missing_data](XXX)** |
 | 3.3   | **[◼ Splitting_the_data_into_test_set_and_training_set](XXX)** |
