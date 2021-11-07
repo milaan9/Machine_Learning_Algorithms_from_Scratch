@@ -55,7 +55,7 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 |    | 4.4 **[Chi_Square_Testing](XXX)** |
 | 05 | **[Python_for_Machine_Learning](XXX)** |
 |    | 5.1 **[1_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.1 **[1_Simple_Linear_Regression](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.1.1 → 1 **[1_Simple_Linear_Regression](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 5.1.2 **[→ 2_Multiple_Linear_Regression](XXX)** |
 | 5.1.3 | **[&nbsp;&nbsp;&nbsp; → 3_Polynomial_Regression](XXX)** |
 | 5.1.4 | **[&nbsp;&nbsp;&nbsp; → 4_Gradient_Regression](XXX)** |
