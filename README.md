@@ -54,7 +54,7 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 |    | 4.3 **[Hypothesis_Testing](XXX)** |
 |    | 4.4 **[Chi_Square_Testing](XXX)** |
 | 05 | **[Python_for_Machine_Learning](XXX)** |
-|    | 5.1 **[1_Regression](XXX)** |
+|    | 5.1 **[Regression](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 5.1.1 → **[Simple_Linear_Regression](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 5.1.2 → **[Multiple_Linear_Regression](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 5.1.3 → **[Polynomial_Regression](XXX)** |
@@ -62,21 +62,21 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 |    | &nbsp;&nbsp;&nbsp; 5.1.5 → **[Support_Vector_Regression_(SVR)](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 5.1.6 → **[Decision_Tree_Regression](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 5.1.7 → **[Random_Forest_Regression](XXX)** |
-|    | ➜ 5.2 **[2 Classification](XXX)** |
-| 5.2.1 | **[&nbsp;&nbsp;&nbsp; → 1_Logistic_Regression](XXX)** |
-| 5.2.2 | **[&nbsp;&nbsp;&nbsp; → 2_KNN_(K-Nearest_Neighbours)](XXX)** |
-| 5.2.3 | **[&nbsp;&nbsp;&nbsp; → 3_Support_Vector_Machines_(SVM)](XXX)** |
-| 5.2.4 | **[&nbsp;&nbsp;&nbsp; → 4_Kernel_SVM](XXX)** |
-| 5.2.5 | **[&nbsp;&nbsp;&nbsp; → 5_Naive_Bayes](XXX)** |
-| 5.2.6 | **[&nbsp;&nbsp;&nbsp; → 6_Decision_Tree_Classifiers](XXX)** |
-| 5.2.7 | **[&nbsp;&nbsp;&nbsp; → 7_Random_Forest_Classifiers](XXX)** |
-| 5.3   | **[➜ 3 Clustering](XXX)** |
-| 5.3.1 | **[&nbsp;&nbsp;&nbsp; → 1_K-Means_Clustering](XXX)** |
-| 5.3.2 | **[&nbsp;&nbsp;&nbsp; → 2_Hierarchical_Clustering](XXX)** |
-| 5.4   | **[➜ 4_Principal_Component_Analysis_(PCA)](XXX)** |
-| 5.5   | **[➜ 5_Hyperparameter_Tuning](XXX)** |
-| 5.6   | **[➜ 6_Association_Rule_Learning](XXX)** |
-| 5.6.1 | **[&nbsp;&nbsp;&nbsp; → 1_Apriori](XXX)** |
+|    | 5.2 **[Classification](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.2.1 → **[Logistic_Regression](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.2.2 → **[KNN_(K-Nearest_Neighbours)](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.2.3 → **[Support_Vector_Machines_(SVM)](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.2.4 → **[Kernel_SVM](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.2.5 → **[Naive_Bayes](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.2.6 → **[Decision_Tree_Classifiers](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.2.7 → **[Random_Forest_Classifiers](XXX)** |
+|    | 5.3 **[Clustering](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.3.1 → **[K-Means_Clustering](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.3.2 → **[Hierarchical_Clustering](XXX)** |
+|    | 5.4 **[Principal_Component_Analysis_(PCA)](XXX)** |
+|    | 5.5 **[Hyperparameter_Tuning](XXX)** |
+|    | 5.6 **[Association_Rule_Learning](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 5.6.1 → **[Apriori](XXX)** |
 | 6     | **[▶ Case_Studies](XXX)** |
 | 6.1   | **[➜ XXX](XXX)** |
 | 6.2   | **[➜ XXX](XXX)** |
