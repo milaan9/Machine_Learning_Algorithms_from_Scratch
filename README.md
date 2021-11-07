@@ -18,7 +18,7 @@
 <a href="https://githubtocolab.com/milaan9/Machine_Learning_and_Deep_Learning"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
 </p> 
 
-# Machine_Learning_&_Deep_Learning
+# Python_Machine_Learning
 
 ## Introduction 👋
 
