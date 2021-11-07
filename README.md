@@ -18,7 +18,7 @@
 <a href="https://githubtocolab.com/milaan9/Machine_Learning_and_Deep_Learning"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
 </p> 
 
-# Python_Machine_Learning
+# Python_Machine_Learning_&_Deep_Learning
 
 ## Introduction 👋
 
@@ -78,11 +78,11 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 |    | 5.6 **[Association_Rule_Learning](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 5.6.1 → **[Apriori](XXX)** |
 | 06 | **[▶ Case_Studies](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; ➜ 6.1 **[XXX](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 6.1 ➜ **[XXX](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 6.2 ➜ **[XXX](XXX)** |
-| 6.3   | **[➜ XXX](XXX)** |
-| 6.4   | **[➜ XXX](XXX)** |
-| 6.5   | **[➜ XXX](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 6.3 ➜ **[XXX](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 6.4 ➜ **[XXX](XXX)** |
+|    | &nbsp;&nbsp;&nbsp; 6.5 ➜ **[XXX](XXX)** |
 | 07 | **[Python_for_Deep_Learning](XXX)** |
 |    | 7.1 **[Deep_Learning_Introduction](XXX)** |
 |    | 7.2 **[Artifial_Neural_Networks_(ANN)](XXX)** |
