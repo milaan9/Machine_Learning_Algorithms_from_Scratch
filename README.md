@@ -83,12 +83,6 @@ Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replace
 |    | &nbsp;&nbsp;&nbsp; 6.3 ➜ **[XXX](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 6.4 ➜ **[XXX](XXX)** |
 |    | &nbsp;&nbsp;&nbsp; 6.5 ➜ **[XXX](XXX)** |
-| 07 | **[Python_for_Deep_Learning](XXX)** |
-|    | 7.1 **[Deep_Learning_Introduction](XXX)** |
-|    | 7.2 **[Artifial_Neural_Networks_(ANN)](XXX)** |
-|    | 7.3 **[Deep_NN_with_TensorFlow_Keras](XXX)** |
-|    | 7.4 **[Convolutional_Neural_Networks_(CNN) ](XXX)** |
-|    | 7.5 **[CNN_with_TensorFlow_Keras](XXX)** |
 
 These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/Python_Machine_Learning/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 
