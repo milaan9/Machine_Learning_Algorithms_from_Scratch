@@ -1,21 +1,21 @@
 <p align="center"> 
 <a href="https://github.com/milaan9"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=milaan9&color=ff3300" alt="Last Commit"/></a> 
-<a href="https://github.com/milaan9/Python_Machine_Learning/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/Python_Machine_Learning.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a> 
-<a href="https://github.com/milaan9/Python_Machine_Learning/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/Python_Machine_Learning.svg?colorB=teal&style=flat" /></a> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2FPython_Machine_Learning&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
-<a href="https://github.com/milaan9/Python_Machine_Learning/stargazers"><img src="https://img.shields.io/github/stars/milaan9/Python_Machine_Learning.svg?colorB=1a53ff" alt="Stars Badge"/></a>
-<a href="https://github.com/milaan9/Python_Machine_Learning/network/members"><img src="https://img.shields.io/github/forks/milaan9/Python_Machine_Learning" alt="Forks Badge"/> </a>
-<img src="https://img.shields.io/github/repo-size/milaan9/Python_Machine_Learning.svg?colorB=CC66FF&style=flat" alt="Size"/>
-<a href="https://github.com/milaan9/Python_Machine_Learning/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/Python_Machine_Learning.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/milaan9/Python_Machine_Learning/issues"><img src="https://img.shields.io/github/issues/milaan9/Python_Machine_Learning.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
-<img src="https://img.shields.io/github/languages/top/milaan9/Python_Machine_Learning.svg?colorB=996600&style=flat" alt="Language"/></a> 
-<a href="https://github.com/milaan9/Python_Machine_Learning/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
+<a href="https://github.com/milaan9/Machine_Learning_Algorithms_from_Scratch/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/Python_Machine_Learning.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a> 
+<a href="https://github.com/milaan9/Python_Machine_Learning/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/Machine_Learning_Algorithms_from_Scratch.svg?colorB=teal&style=flat" /></a> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2FMachine_Learning_Algorithms_from_Scratch&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
+<a href="https://github.com/milaan9/Machine_Learning_Algorithms_from_Scratch/stargazers"><img src="https://img.shields.io/github/stars/milaan9/Python_Machine_Learning.svg?colorB=1a53ff" alt="Stars Badge"/></a>
+<a href="https://github.com/milaan9/Machine_Learning_Algorithms_from_Scratch/network/members"><img src="https://img.shields.io/github/forks/milaan9/Python_Machine_Learning" alt="Forks Badge"/> </a>
+<img src="https://img.shields.io/github/repo-size/milaan9/Machine_Learning_Algorithms_from_Scratch.svg?colorB=CC66FF&style=flat" alt="Size"/>
+<a href="https://github.com/milaan9/Machine_Learning_Algorithms_from_Scratch/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/Machine_Learning_Algorithms_from_Scratch.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/milaan9/Machine_Learning_Algorithms_from_Scratch/issues"><img src="https://img.shields.io/github/issues/milaan9/Machine_Learning_Algorithms_from_Scratch.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
+<img src="https://img.shields.io/github/languages/top/milaan9/Machine_Learning_Algorithms_from_Scratch.svg?colorB=996600&style=flat" alt="Language"/></a> 
+<a href="https://github.com/milaan9/Machine_Learning_Algorithms_from_Scratch/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a>
 </p> 
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
 
 <p align="center"> 
-<a href="https://mybinder.org/v2/gh/milaan9/Python_Machine_Learning/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
-<a href="https://githubtocolab.com/milaan9/Python_Machine_Learning"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
+<a href="https://mybinder.org/v2/gh/milaan9/Machine_Learning_Algorithms_from_Scratch/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
+<a href="https://githubtocolab.com/milaan9/Machine_Learning_Algorithms_from_Scratch"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="colab"/></a> 
 </p> 
 
 # Python_Machine_Learning_&_Deep_Learning
