@@ -22,10 +22,7 @@
 
 ## Introduction 👋
 
-### What is NumPy?
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)](https://numpy.org/) stands for numeric python which is a python package for the computation and processing of the multidimensional and single dimensional array elements.
-
-Nowadays, NumPy in combination with SciPy and Mat-plotlib is used as the replacement to MATLAB as Python is more complete and easier programming language than MATLAB.
+This repository explores the variety of techniques anf alorithm commonly used in machine learning and the implementation in MATLAB and PYTHON.
 
 ---
 
