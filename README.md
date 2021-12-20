@@ -28,60 +28,25 @@ This repository explores the variety of techniques anf alorithm commonly used in
 
 ## Table of contents 📋
 
-| **No.** | **Name** | 
-| ------- | -------- | 
-| 01 | **[Python_Programming](XXX)** |
-|    | 1.1 **[Python_Introduction](XXX)** |
-|    | 1.2 **[1.2 Python_Data_Types](XXX)** |
-|    | 1.3 **[Python_Flow_Control](XXX)** |
-|    | 1.4 **[Python_Functions](XXX)** |
-|    | 1.5 **[Python_Advance](XXX)** |
-| 02 | **[Python_for_Data_Science](XXX)** |
-|    | 2.1 **[Python_Numpy](XXX)** |
-|    | 2.2 **[Python_Pandas](XXX)** |
-|    | 2.3 **[Exploratory_Data_Analysis](XXX)** |
-| 03 | **[Python_for_Data_Preprocessing](XXX)** |
-|    | 3.1 **[Importing_the_dataset](XXX)** |
-|    | 3.2 **[Dealing_with_missing_data](XXX)** |
-|    | 3.3 **[Splitting_the_data_into_test_set_and_training_set](XXX)** |
-|    | 3.4 **[Feature_Scalling](XXX)** |
-| 04 | **[Python_Statistics_for_Data_Science](XXX)** |
-|    | 4.1 **[Normal_Distribution](XXX)** |
-|    | 4.2 **[Central_Limit_Theorem](XXX)** |
-|    | 4.3 **[Hypothesis_Testing](XXX)** |
-|    | 4.4 **[Chi_Square_Testing](XXX)** |
-| 05 | **[Python_for_Machine_Learning](XXX)** |
-|    | 5.1 **[Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.1 → **[Simple_Linear_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.2 → **[Multiple_Linear_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.3 → **[Polynomial_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.4 → **[Gradient_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.5 → **[Support_Vector_Regression_(SVR)](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.6 → **[Decision_Tree_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.1.7 → **[Random_Forest_Regression](XXX)** |
-|    | 5.2 **[Classification](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.1 → **[Logistic_Regression](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.2 → **[KNN_(K-Nearest_Neighbours)](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.3 → **[Support_Vector_Machines_(SVM)](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.4 → **[Kernel_SVM](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.5 → **[Naive_Bayes](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.6 → **[Decision_Tree_Classifiers](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.2.7 → **[Random_Forest_Classifiers](XXX)** |
-|    | 5.3 **[Clustering](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.3.1 → **[K-Means_Clustering](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.3.2 → **[Hierarchical_Clustering](XXX)** |
-|    | 5.4 **[Principal_Component_Analysis_(PCA)](XXX)** |
-|    | 5.5 **[Hyperparameter_Tuning](XXX)** |
-|    | 5.6 **[Association_Rule_Learning](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 5.6.1 → **[Apriori](XXX)** |
-| 06 | **[▶ Case_Studies](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.1 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.2 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.3 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.4 ➜ **[XXX](XXX)** |
-|    | &nbsp;&nbsp;&nbsp; 6.5 ➜ **[XXX](XXX)** |
+Alogrithm used are :
+  1. Decision Trees and Random Forest Classifier
+  2. Naive Bayes Classifier
+  3. Gaussian Naive Bayes Calssifier
+  4. Mixture Of Gaussians using EM Algorithm
+  5. Neural Network
+  6. Singular Value Decomposition
+  7. Principal Component Analysis
+  8. Fitting the data to a 1D Gaussian
+  9. Fitting the data to a 2D Gaussian
+  10. K Nearest Neighbours
+  11. Linear Regression
+  12. Logistic Regression
+  13. K-Mean Clustering
+  14. Value-Iteration-Method
+  15. Dynamic Time Warping
+  16. Error Function and Regularisation
 
-These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/Python_Machine_Learning/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
+These are online **read-only** versions. However you can **`Run ▶`**  all the codes **online** by clicking here ➞ <a href="https://mybinder.org/v2/gh/milaan9/Machine_Learning_Algorithms_from_Scratch/HEAD"><img src="https://mybinder.org/badge_logo.svg" alt="binder"/></a>
 
 * Recommendation for ML Enthusiasts: **[Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)**
 ---
